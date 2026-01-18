@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Donela</h1>
 <h3 align="center">A passionate Data Analyst</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donela-amaka" alt="donela-amaka" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donela-amaka" alt="donela-amaka" /></a> 
+<a href="https://www.youtube.com/c/nwamakaokeke1367" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="nwamakaokeke1367" height="30" width="40" /></a>
+</p>
 
 <p align="left"> <a href="https://twitter.com/gdonelamaka" target="blank"><img src="https://img.shields.io/twitter/follow/gdonelamaka?logo=twitter&style=for-the-badge" alt="gdonelamaka" /></a> </p>
 
