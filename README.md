@@ -1,15 +1,31 @@
-- 👋 Hi, I’m Donela Okeke. I am an aspiring Data Analyst with a passion for transforming data into actionable insights.
-- 👀 I’m interested in expanding my knowledge in data analysis,visualization and predictive modeling. I am also excited about the possibilities of making data-driven decisions that lead to meaningful results
-- 🌱 I’m currently learning Advanced SQL Queries, Data Warehousing, Time Series Analysis and Automated data workflows using Python.
-- 💞️ I’m looking to collaborate on real life projects.
-- 📫 How to reach me: Email; donelamaka@gmail.com
-                      Linkedin; https://www.linkedin.com/in/nwamaka-okeke
-                      Github; @Donela-amaka
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: When I am not diving into data, you will likely find me sewing! I enjoy creating custom pieces and experimenting with different fabrics.
-  Much like data analysis, sewing requires precision, creativity and a keen eye for detail- it's all about stitching things together to create something beautiful.
+<h1 align="center">Hi 👋, I'm Donela</h1>
+<h3 align="center">A passionate Data Analyst</h3>
 
-<!---
-Donela-amaka/Donela-amaka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=donela-amaka" alt="donela-amaka" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/gdonelamaka" target="blank"><img src="https://img.shields.io/twitter/follow/gdonelamaka?logo=twitter&style=for-the-badge" alt="gdonelamaka" /></a> </p>
+
+- 🔭 I’m currently working on **The drivers of laptop battery health**
+
+- 🌱 I’m currently learning **currently learning Python, Network Security & SIEM tools.**
+
+- 👯 I’m looking to collaborate on **Build a Honeypot and Analyze Attacker Behavior**
+
+- 👨‍💻 All of my projects are available at [www.linkedin.com/in/ nwamaka-donela Vanity URL name](www.linkedin.com/in/ nwamaka-donela Vanity URL name)
+
+- 💬 Ask me about **Power BI,Excel,SQL**
+
+- 📫 How to reach me **donelamaka@gmail.com**
+
+- ⚡ Fun fact **I think I love to challenge myself**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/gdonelamaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="gdonelamaka" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/www.linkedin.com/in/nwamaka-donela" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/nwamaka-donela" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=donela-amaka&show_icons=true&locale=en&layout=compact" alt="donela-amaka" /></p>
